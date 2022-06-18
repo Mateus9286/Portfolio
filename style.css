@@ -31,12 +31,14 @@
     display: flex;
     height: 30px;
     font-size: 30px;
+    color: rgb(3, 3, 34);
 }
 .contato{
     width: 130px;
     height: 40px;
     border-radius: 10px;
     font-size: 17px;
+    border: solid rgb(3, 3, 34);
    
 }
 .contato:hover{
@@ -55,6 +57,7 @@
 }
 .nome{
     font-size: 40px;
+    color: rgb(3, 3, 34);
 }
 .titulo{
     margin-left: 100px;
@@ -66,6 +69,7 @@
     margin: 50px 0 0 110px ;
     line-height: 2px;
     border-bottom: solid rgb(3, 3, 34);
+    color: rgb(3, 3, 34);
 }
 .texto {
     margin-top: 20px;
