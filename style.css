@@ -40,7 +40,7 @@
    
 }
 .contato:hover{
-    border: 2px black;
+    border: 2px rgb(3, 3, 34);
     background-color: rgb(3, 3, 34);
     color:whitesmoke;
 }
@@ -48,7 +48,9 @@
     height: 250px;
     width: 220px;
     border-radius: 120px;
-    margin-top: 20px;
+    margin-top: 20px; 
+    border: solid rgb(3, 3, 34);
+    
     
 }
 .nome{
@@ -63,7 +65,7 @@
     width: 1000px;
     margin: 50px 0 0 110px ;
     line-height: 2px;
-    border-bottom: solid;
+    border-bottom: solid rgb(3, 3, 34);
 }
 .texto {
     margin-top: 20px;
@@ -79,8 +81,8 @@
     margin-bottom:80px;
 }
 .projetos:hover{
-    border: 2px black;
+    border: 2px rgb(3, 3, 34);
     background-color: rgb(3, 3, 34);
-    color: white;
+    color: whitesmoke;
 }
 main{background-color: rgb(3, 3, 34);}
