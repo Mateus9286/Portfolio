@@ -1,0 +1,86 @@
+.container{
+    max-width: 1000px;
+    margin:0 auto;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: whitesmoke
+    
+}
+
+.cabecalho{
+    height: 60px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    max-width: 1000px;
+    margin:0 auto;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.boxcabecalho{
+    width: 300px;
+    display: flex;
+    height: 30px;
+    font-size: 30px;
+}
+.contato{
+    width: 130px;
+    height: 40px;
+    background-color: ;
+    border-radius: 10px;
+    font-size: 17px;
+   
+}
+.contato:hover{
+    border: 2px black;
+    background-color: rgb(3, 3, 34);
+    color: white;
+}
+.foto{
+    height: 250px;
+    width: 220px;
+    border-radius: 120px;
+    margin-top: 20px;
+    
+}
+.nome{
+    font-size: 40px;
+}
+.titulo{
+    margin-left: 100px;
+    opacity: 0.8;
+}
+.sobre{
+    display: block;
+    width: 1000px;
+    margin: 50px 0 0 110px ;
+    line-height: 2px;
+    border-bottom: solid;
+}
+.texto {
+    margin-top: 20px;
+}
+.projetos {
+    height: 45px;
+    width: 300px;
+    display: block;
+    font-size: 20px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-bottom:80px;
+}
+.projetos:hover{
+    border: 2px black;
+    background-color: rgb(3, 3, 34);
+    color: white;
+}
+main{background-color: rgb(3, 3, 34);}
