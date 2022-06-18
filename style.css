@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
 .container{
     max-width: 1000px;
     margin:0 auto;
@@ -58,6 +60,7 @@
 .nome{
     font-size: 40px;
     color: rgb(3, 3, 34);
+    
 }
 .titulo{
     margin-left: 100px;
@@ -73,6 +76,8 @@
 }
 .texto {
     margin-top: 20px;
+    font-family: 'Inter', sans-serif;
+    padding-left: 110px;
 }
 .projetos {
     height: 45px;
