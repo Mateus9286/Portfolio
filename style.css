@@ -5,8 +5,8 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    background-color: whitesmoke
-    
+    background-color: whitesmoke;
+    border-radius: 5px;
 }
 
 .cabecalho{
@@ -20,6 +20,7 @@
     background-color: whitesmoke;
     max-width: 1000px;
     margin:0 auto;
+    border-radius: 5px;
 }
 .logo{
     width: 50px;
@@ -34,7 +35,6 @@
 .contato{
     width: 130px;
     height: 40px;
-    background-color: ;
     border-radius: 10px;
     font-size: 17px;
    
@@ -42,7 +42,7 @@
 .contato:hover{
     border: 2px black;
     background-color: rgb(3, 3, 34);
-    color: white;
+    color:whitesmoke;
 }
 .foto{
     height: 250px;
